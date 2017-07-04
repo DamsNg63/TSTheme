@@ -14,12 +14,12 @@
 7. Restart your TeamSpeak app and you should be good to go\!
 <br />
 /Users/{your-username} (~)<br />
-         |__ Library<br />
-                |__ Application Support<br />
-                            |__ TeamSpeak 3<br />
-                                     |__ styles<br />
-                                     |      |__ DarkenTS (directory)<br />
-                                     |      |__ DarkenTS.qss<br />
-                                     |      |__ DarkenTS_chat.qss<br />
-                                     |__ gfx<br />
-                                          |__ *.png<br />
+_________|__ Library<br />
+________________|__ Application Support<br />
+____________________________|__ TeamSpeak 3<br />
+_____________________________________|__ styles<br />
+_____________________________________|      |__ DarkenTS (directory)<br />
+_____________________________________|      |__ DarkenTS.qss<br />
+_____________________________________|      |__ DarkenTS_chat.qss<br />
+_____________________________________|__ gfx<br />
+__________________________________________|__ *.png<br />
