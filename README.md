@@ -12,7 +12,7 @@
 6. Open your TeamSpeak app, go to Preferences \(Alt \+ P\), go to "Design", and apply both DarkenTS Icon Pack AND Theme\!
 7. Restart your TeamSpeak app and you should be good to go\!
 
-![alt text](https://github.com/DamsNg63/TSTheme/blob/master/DO%20NOT%20TOUCH/Windows%20Tree.png?raw=true)
+![alt text](https://github.com/DamsNg63/TSTheme/blob/master/DO%20NOT%20TOUCH/Windows%20tree.png?raw=true)
 
 ### For MacOS users
 1. Check the repository above and click "Clone or download" and download as a zip\.
