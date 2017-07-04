@@ -13,4 +13,4 @@
 6. Open your TeamSpeak app, go to Preferences \(Command \+ ,\), go to "Design", and apply both DarkenTS Icon Pack AND Theme\!
 7. Restart your TeamSpeak app and you should be good to go\!
 
-![alt text](TSTheme/DO NOT TOUCH/MacOS tree.png)
+![alt text](https://raw.githubusercontent.com/DamsNg63/TSTheme/master/DO%20NOT%20TOUCH/MacOS%20tree.png)
