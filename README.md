@@ -14,12 +14,12 @@
 7. Restart your TeamSpeak app and you should be good to go\!
 <br />
 /Users/{your-username} (~)<br />
-_________|__ Library<br />
-________________|__ Application Support<br />
-____________________________|__ TeamSpeak 3<br />
-_____________________________________|__ styles<br />
-_____________________________________|      |__ DarkenTS (directory)<br />
-_____________________________________|      |__ DarkenTS.qss<br />
-_____________________________________|      |__ DarkenTS_chat.qss<br />
-_____________________________________|__ gfx<br />
-__________________________________________|__ *.png<br />
+&nbsp;&nbsp;&nbsp;|__ Library<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ Application Support<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ TeamSpeak 3<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ styles<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|      |__ DarkenTS (directory)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|      |__ DarkenTS.qss<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|      |__ DarkenTS_chat.qss<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ gfx<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ *.png<br />
