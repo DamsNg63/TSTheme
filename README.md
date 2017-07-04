@@ -12,4 +12,14 @@
    *If you still can't find it, go to your Teaminal app and type: open ~/Library/Application\\ Support/TeamSpeak\\ 3/gfx*
 6. Open your TeamSpeak app, go to Preferences \(Command \+ ,\), go to "Design", and apply both DarkenTS Icon Pack AND Theme\!
 7. Restart your TeamSpeak app and you should be good to go\!
-
+<br />
+/Users/\{your\-username\} \(~\)
+         |\_\_ Library
+                |\_\_ Application Support
+                            |\_\_ TeamSpeak 3
+                                     |\_\_ styles
+                                     |      |\_\_ DarkenTS \(directory\)
+                                     |      |\_\_ DarkenTS\.qss
+                                     |      |\_\_ DarkenTS\_chat\.qss
+                                     |\_\_ gfx
+                                          |\_\_ \*\.png
