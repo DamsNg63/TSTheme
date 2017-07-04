@@ -1,4 +1,6 @@
-#Instructions
+Instructions
+============
+
 ###For MacOS users
 1. Check the repository above and click "Clone or download" and download as a zip\.
 2. Extract it\.
