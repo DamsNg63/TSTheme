@@ -1,7 +1,6 @@
-Instructions
-============
+# Instructions
 
-###For MacOS users
+### For MacOS users
 1. Check the repository above and click "Clone or download" and download as a zip\.
 2. Extract it\.
 3. Copy the 2 files with the extension \.qss and the folder DarkenTS only\! You really shouldn't pay attention to the README\.md file\.
