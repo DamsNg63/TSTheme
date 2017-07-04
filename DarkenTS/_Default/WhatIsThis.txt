@@ -1,0 +1,1 @@
+If you would like to use the extended version, navigate to "%APPDATA%\TS3Client\styles\DarkenTS\_Extended", copy and paste all .tpl's into the style root folder. Additionally you can backup all default .tpl's into this folder.

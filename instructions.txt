@@ -1,0 +1,50 @@
+==================== INSTRUCTIONS ====================
+
+————— For MacOS users —————
+1 • Go back to the GitHub repository and click "Clone or download" and download as a zip.
+2 • Extract it.
+3 • Copy the 2 files with the extension .qss and the folder DarkenTS only! You really shouldn't pay attention to the README.md file.
+4 • Copy or move to the following folder:
+	~/Library/Application\ Support/TeamSpeak\ 3/styles
+    If you can't find it, go to your Terminal app and type: open ~/Library/Application\ Support/TeamSpeak\ 3/styles
+5 • Go back to your extracted folder, browse to "Icon Pack" and copy the whole "DarkenTS" folder to the following folder:
+	~/Library/Application\ Support/TeamSpeak\ 3/gfx
+    If you still can't find it, go to your Teaminal app and type: open ~/Library/Application\ Support/TeamSpeak\ 3/gfx
+6 • Open your TeamSpeak app, go to Preferences (Command + ,), go to "Design", and apply both DarkenTS Icon Pack AND Theme!
+7 • Restart your TeamSpeak app and you should be good to go!
+
+/Users/{your-username} (~)
+         |__ Library
+                |__ Application Support
+                            |__ TeamSpeak 3
+                                     |__ styles
+                                     |      |__ DarkenTS (directory)
+                                     |      |__ DarkenTS.qss
+                                     |      |__ DarkenTS_chat.qss
+                                     |__ gfx
+                                          |__ *.png
+
+————— For Windows users —————
+1 • Go back to the GitHub repository and click "Clone or download" and download as a zip.
+2 • Extract it.
+3 • Copy the 2 files with the extension .qss and the folder DarkenTS only! You really shouldn't pay attention to the README.md file.
+4 • Copy or move to the following folder:
+	C:\Users\{your_username}\AppData\Roaming\TS3Client\styles
+    If you can't find AppData, make sure to go to your view options and check "Display hidden files".
+5 • Go back to your extracted folder, browse to "Icon Pack" and copy the whole "DarkenTS" folder to the following folder:
+	C:\Users\{your_username}\AppData\Roaming\TS3Client\gfx
+6 • Open your TeamSpeak app, go to Preferences (Alt + P), go to "Design", and apply both DarkenTS Icon Pack AND Theme!
+7 • Restart your TeamSpeak app and you should be good to go!
+
+C:\
+ |__ Users
+      |__ {your_username}
+                |__ AppData
+                       |__ Roaming
+                              |__ TS3Client
+                                      |__ styles
+                                      |      |__ DarkenTS (directory)
+                                      |      |__ DarkenTS.qss
+                                      |      |__ DarkenTS_chat.qss
+                                      |__ gfx
+                                           |__ *.png

@@ -1,0 +1,58 @@
+/** CSS Style for channelinfo.tpl, clientinfo.tpl, and serverinfo.tpl
+
+DarkenTS is licensed under the the Brady Use-NoSharing-NoDerivatives 1.0 WW License. To view a copy of this license,
+visit visit http://brady-the.atwebpages.com/#aterms or open %AppData%\TS3Client\styles\DarkenTS\License.
+
+Shout-out to fonta for bringing this option to my attention! **/
+
+table#info {
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+
+table#list {
+  border-collapse: collapse;
+  border-spacing: 0px;
+  margin-bottom: 10px;
+}
+
+td {
+  padding: 0px 4px 0px 1px;
+}
+
+td.label {
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+td.space {
+  padding-top: 6px;
+}
+
+td.list {
+  padding: 0px 1px 0px 8px;
+}
+
+.active {
+  color: rgb(57,165,221);
+  text-decoration: underline;
+}
+
+.inactive {
+  color: rgb(216,216,216);
+  text-decoration: underline;
+}
+
+.blue {
+  color: rgb(57,165,221);
+}
+
+.red {
+  color: rgb(202,58,58);
+}
+
+.topic {
+  text-align: center;
+  vertical-align: top;
+  font-weight: bold;
+}
