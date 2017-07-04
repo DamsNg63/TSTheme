@@ -12,3 +12,5 @@
    *If you still can't find it, go to your Teaminal app and type: open ~/Library/Application\\ Support/TeamSpeak\\ 3/gfx*
 6. Open your TeamSpeak app, go to Preferences \(Command \+ ,\), go to "Design", and apply both DarkenTS Icon Pack AND Theme\!
 7. Restart your TeamSpeak app and you should be good to go\!
+
+![alt text](DO\ NOT\ TOUCH/MacOS\ tree.ong)
