@@ -162,7 +162,6 @@ a {
 
 .TextMessage_HostName,					/* Server Address */
 .TextMessage_ServerLink	{				/* Server Name */
-  color: #CE1010;
   font-weight: bold;
 }
 
