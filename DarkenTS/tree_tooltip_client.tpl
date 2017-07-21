@@ -33,7 +33,7 @@ td.avatar {
 	padding: 0px 8px 0px 0px;
 }
 .blue {
-    color: blue;
+    color: #1BDEE5;
 }
 .red {
     color: red;

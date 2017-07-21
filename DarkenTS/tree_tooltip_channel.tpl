@@ -52,7 +52,7 @@ td.label {
 	font-weight: bold;
 }
 .blue {
-	color: blue;
+	color: #1BDEE5;
 }
 .red {
 	color: red;
