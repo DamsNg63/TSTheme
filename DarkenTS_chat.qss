@@ -4,7 +4,7 @@
  *
  * Copyright (c) TeamSpeak Systems GmbH
  *
- * DarkenTS Style is licensed under the the Brady Use-NoSharing-NoDerivatives 1.0 WW License. To view a copy of this license, visit %AppData%\TS3Client\styles\DarkenTS\License.
+ * DarkenTS Style is licensed under the the Brady Use-NoSharing-NoDerivatives 1.0 WW License. To view a copy of this license, visit http://brady-the.atwebpages.com/#aterms or open %AppData%\TS3Client\styles\DarkenTS\License.
  *
  * Supported HTML Subset:
  * 
@@ -87,12 +87,26 @@
  *  - TextMessage_Time                     :: message time
  *  - TextMessage_Text                     :: message text
  */
- 
+
+/* ----- Custom Adjustments ----- */
+
+.InfoFrame_Title {
+  font-size: 26pt;
+  text-align: center;
+}
+
+.InfoFrame_SubInfo {
+  color: #666;
+  font-size: 14pt;
+  text-align: center;
+}
+
+
 /* @group Global Elements */
 
 p {
-	padding: 0px;
-	margin: 0px;
+  padding: 0px;
+  margin: 0px;
 }
 
 /* @end */
@@ -100,10 +114,10 @@ p {
 /* ----- Link Style ---- */
 
 a {
-	color: rgb(57,165,221);
-	font-weight: none;
-	text-decoration: none;
-	outline: none;
+  color: rgb(57,165,221);
+  font-weight: none;
+  text-decoration: none;
+  outline: none;
 }
 
 /* ---- END ---- */
@@ -111,14 +125,14 @@ a {
 /* @group Time and History Elements */
 
 .TextMessage_Time {
-    color: rgb(149,165,166);
-		font-weight: normal;
+  color: rgb(149,165,166);
+  font-weight: normal;
 }
 
 .TextMessage_BeginHistory,
 .TextMessage_EndHistory {
-    color: rgb(149,165,166);
-		font-style: italic;
+  color: rgb(149,165,166);
+  font-style: italic;
 }
 
 /* @end */
@@ -126,16 +140,16 @@ a {
 /* @group Object Link Elements */
 
 .TextMessage_UserLink {					/* User Name */
-	color: rgb(0,151,178);
-		font-weight: bold;
-		text-decoration: none;
+  color: #23A8B2;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 .TextMessage_OfflineLink,				/* Channel Name */
 .TextMessage_ChannelLink {
-	color: rgb(0,146,45);
-		font-weight: bold;
-		text-decoration: none;
+  color: #0EA528;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 /* @end */
@@ -144,13 +158,14 @@ a {
 
 .TextMessage_HostName,					/* Server Address */
 .TextMessage_ServerLink	{				/* Server Name */
-		font-weight: bold;
+  color: #CE1010;
+  font-weight: bold;
 }
 
 .TextMessage_Welcome,
 .TextMessage_HostMessage {
-	color: rgb(216,216,216);
-		font-weight: bold;
+  color: rgb(216,216,216);
+  font-weight: bold;
 }
 
 .TextMessage_Message,	
@@ -174,7 +189,7 @@ a {
 .TextMessage_ChannelEdited,
 .TextMessage_ChannelMoved,
 .TextMessage_ServerEdited {
-	color: rgb(216,216,216);
+  color: rgb(216,216,216);
 }
 
 .TextMessage_GroupAssigned,
@@ -182,8 +197,8 @@ a {
 .TextMessage_TalkPowerAssigned,
 .TextMessage_TalkPowerRevoked,
 .TextMessage_TalkPowerRequested {
-	color: rgb(216,216,216);
-		font-weight: bold;
+  color: rgb(216,216,216);
+  font-weight: bold;
 }
 
 /* @end */
@@ -191,8 +206,8 @@ a {
 /* @group Error Message Elements */
 
 .TextMessage_ServerError {
-	color: rgb(203,59,59);
-		font-weight: bold;
+  color: rgb(203,59,59);
+  font-weight: bold;
 }
 
 /* @end */

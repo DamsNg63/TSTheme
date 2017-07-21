@@ -1,7 +1,7 @@
 /** CSS Style for channelinfo.tpl, clientinfo.tpl, and serverinfo.tpl
 
-DarkenTS and its sub projects (including theme variations and icon packs) are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+DarkenTS is licensed under the the Brady Use-NoSharing-NoDerivatives 1.0 WW License. To view a copy of this license,
+visit visit http://brady-the.atwebpages.com/#aterms or open %AppData%\TS3Client\styles\DarkenTS\License.
 
 Shout-out to fonta for bringing this option to my attention! **/
 
@@ -33,16 +33,6 @@ td.list {
   padding: 0px 1px 0px 8px;
 }
 
-.active {
-  color: rgb(57,165,221);
-  text-decoration: underline;
-}
-
-.inactive {
-  color: rgb(216,216,216);
-  text-decoration: underline;
-}
-
 .blue {
   color: rgb(57,165,221);
 }
@@ -56,4 +46,14 @@ td.list {
   vertical-align: top;
   font-size: 16pt;
   font-weight: bold;
+}
+
+.active {
+  color: rgb(57,165,221);
+  text-decoration: underline;
+}
+
+.inactive {
+  color: rgb(216,216,216);
+  text-decoration: underline;
 }
