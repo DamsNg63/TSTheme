@@ -90,6 +90,10 @@
 
 /* ----- Custom Adjustments ----- */
 
+table tr td {
+  padding: 0px 3px;
+}
+
 .InfoFrame_Title {
   font-size: 26pt;
   text-align: center;
